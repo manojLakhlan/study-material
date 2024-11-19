@@ -12,3 +12,5 @@ Four type of status we get after using git status
 Add-adds new or changed files in your working directory to the Git stagging area, for single files("git add <fileName>") for multiple files("git add .")
 
 Commit-it is the record of change-(git commit -m'some message')
+
+push-upload local repo content to remote repo (git push origin main)
