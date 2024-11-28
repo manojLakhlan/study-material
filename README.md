@@ -1,6 +1,9 @@
 # study-material
 1-Git and Github Lecture
+<br></br>
 Clone-To clone a repository on your local machine(git clone <..link..>)
+<br></br>
+
 
 Status-displays the state of the code(git status)
 Four type of status we get after using git status
